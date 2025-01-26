@@ -1,7 +1,7 @@
 name: parser
 description: "Parser making it easy to parse json and get typesafe values from data"
 version: 1.0.0
-homepage:
+repository: https://github.com/davincium/parser
 
 environment:
   sdk: ^3.6.1
