@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:parser/parser.dart';
+import 'package:dparser/dparser.dart';
 
 void main()
 {

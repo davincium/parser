@@ -1,4 +1,4 @@
-name: parser
+name: dparser
 description: "Parser making it easy to parse json and get typesafe values from data"
 version: 1.0.0
 repository: https://github.com/davincium/parser
